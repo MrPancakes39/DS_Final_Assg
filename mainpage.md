@@ -4,7 +4,7 @@ This is a graded assigment given to me as a CCNE student in the Lebanese Univers
 
 This will be used to determine my mark for the Data Structures Lab course.
 
-The assigment is found on the github repository as a docx file.
+The assigment is found on the github <a href="https://github.com/MrPancakes39/DS_Final_Assg/" target="_blank">repository</a> as a docx file.
 
 The requirements:
 
